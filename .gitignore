@@ -42,5 +42,5 @@ yarn-error.log*
 next-env.d.ts
 
 test-openrouter.ts
-# This file is used for testing OpenRouter API calls and should not be committed.
+# This file is used for testing OpenRouter.ai API calls and should not be committed.
 
