@@ -40,3 +40,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+test-openrouter.ts
+# This file is used for testing OpenRouter API calls and should not be committed.
+
